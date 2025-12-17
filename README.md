@@ -14,8 +14,6 @@ I also enjoy web development
 
 ### Salesforce
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0? style=for-the-badge&logo=salesforce&logoColor=white)
-![Lightning](https://img.shields.io/badge/Lightning-00A1E0? style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
