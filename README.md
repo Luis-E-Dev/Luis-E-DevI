@@ -26,15 +26,12 @@ I also enjoy web development
 
 ## 🎯 Featured Projects
 
-_Coming soon! I'm currently building showcase projects that demonstrate my Salesforce and full-stack development skills._
-
-<!-- 
 Uncomment and fill in as you create projects:
 
 ### 🔷 Salesforce Projects
+- **Contact Search Manager([link](https://github.com/Luis-E-Dev/salesforce-contact-manager))**
 - **[Project Name](link)** - Brief description
-- **[Project Name](link)** - Brief description
-
+<!-- 
 ### 💻 Other Projects
 - **[Project Name](link)** - Brief description
 - **[Project Name](link)** - Brief description
