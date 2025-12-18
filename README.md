@@ -42,16 +42,10 @@ Uncomment and fill in as you create projects:
 
 ## 📜 Certifications
 
-_Add your Salesforce certifications here as you earn them:_
-<!-- 
 - 🏆 Salesforce Certified Platform Developer I
 - 🏆 Salesforce Certified Administrator
 - 🏆 Salesforce Certified Platform App Builder
--->
 
-## 📊 GitHub Stats
-
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-E-DevI&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect
 
