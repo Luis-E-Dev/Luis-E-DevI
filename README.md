@@ -30,6 +30,7 @@ Uncomment and fill in as you create projects:
 
 ### 🔷 Salesforce Projects
 - **Contact Search Manager([link](https://github.com/Luis-E-Dev/salesforce-contact-manager))**
+- **LWC Component Library([link](https://github.com/Luis-E-Dev/lwc-component-library)) IN PROGRESS 🚧** 
 
 <!-- 
 ### 💻 Other Projects
