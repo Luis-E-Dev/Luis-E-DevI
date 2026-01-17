@@ -32,7 +32,7 @@ Uncomment and fill in as you create projects:
 - **Contact Search Manager([link](https://github.com/Luis-E-Dev/salesforce-contact-manager))**
 - **LWC Component Library([link](https://github.com/Luis-E-Dev/lwc-component-library)) IN PROGRESS 🚧**
 - **MCP Server to Fetch Accounts Information with Claude([link](https://github.com/Luis-E-Dev/my-new-mcp-server))**
-- **Short Guessing Game using Python([link](https://github.com/Luis-E-Dev/python-projects))**
+- **Short Guessing Game using Python([link](https://github.com/Luis-E-Dev/python-projects/tree/main/Guessing%20Game))**
 
 <!-- 
 ### 💻 Other Projects
