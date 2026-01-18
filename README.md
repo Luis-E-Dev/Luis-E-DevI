@@ -1,9 +1,7 @@
 # Hi there, I'm Luis 👋🏽👨🏽‍💻
 
 ## 🚀 About Me
-I'm a Salesforce Developer with a passion for building scalable solutions and exploring full-stack development. I specialize in creating efficient, user-friendly applications using modern technologies. I also love to learn new technologies
-and learn from everybody. I know that the technology field is so huge, and I still have a lot of things to learn, and I really love to roll up my sleeves and start working on anything I can to help the team.
-I also enjoy web development
+I'm a Salesforce Developer with a passion for building scalable solutions and exploring full-stack development. I specialize in creating efficient, user-friendly applications using modern technologies. I also love to learn new technologies and learn from everybody. I know that the technology field is so huge, and I still have a lot of things to learn, and I really love to roll up my sleeves and start working on anything I can to help the team. I am currently working on a Microsoft AI Engineer to enhance AI tools by using Python.
 
 ## 💼 What I Do
 - 🔷 Salesforce Development (Apex, Lightning Web Components, Flows, API Integrations)
