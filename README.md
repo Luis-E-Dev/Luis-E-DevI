@@ -33,6 +33,7 @@ Uncomment and fill in as you create projects:
 - **LWC Component Library([link](https://github.com/Luis-E-Dev/lwc-component-library)) IN PROGRESS 🚧**
 - **MCP Server to Fetch Accounts Information with Claude([link](https://github.com/Luis-E-Dev/my-new-mcp-server))**
 - **Short Guessing Game using Python([link](https://github.com/Luis-E-Dev/python-projects/tree/main/Guessing%20Game))**
+- **MCP Server to Pull Accounts Records into Google Sheets([link](https://github.com/Luis-E-Dev/python-projects/blob/main/mcp-server-to-gogglesheets/README.md))**
 
 <!-- 
 ### 💻 Other Projects
